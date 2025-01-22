@@ -46,5 +46,8 @@ If you have suggestions or spot any issues, feel free to reach out or fork the r
 - **GitHub**: [ndelevamutua](https://github.com/ndelevamutua)
 
 ---
+# Thank You Page 🙏
 
+- **Muindi**: [Connect with Muindi](https://wa.me/254115783375)
+  
 Thank you for visiting my portfolio. Stay tuned for more updates and projects! 🚀
